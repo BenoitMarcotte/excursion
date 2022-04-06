@@ -13,9 +13,9 @@ body {
 }
 
 .header--secondary {
-    color: aquamarine;
-    font-weight: 300;
     font-size: 42px;
+    color: white;
+    font-weight: 300;    
 }
 
 .header-sub-header {
